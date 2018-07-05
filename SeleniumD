@@ -2,7 +2,7 @@ package demo;
 
 public class D {
 	
-	public void day1() {
+	public void day4() {
 		
 		System.out.print("and rains ");
 	}
